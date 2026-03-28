@@ -1,30 +1,30 @@
 # Titulo y descripcion
-Nombre del proyecto y una breve explicacio  de que hace y por que es util
 
-# Estructura del proyecto
+## Estructura del Proyecto
 
+```
 gestion-info/
-├─ README.md                         
+├─ README.md
 ├─ requirements.txt
 ├─ .gitignore
 ├─ data/
-│  └─ records.json                # o registros.csv / registros.txt
+│  └─ records.json
 └─ src/
-      ├─ main.py                    # punto de entrada
-      ├─ menu.py                    # interfaz de consola (UI)
-      ├─ service.py                 # lógica (CRUD)
-      ├─ file.py                    # persistencia (leer/guardar)
-      ├─ validate.py                # validaciones y helpers
-      └─ integration.py             # faker / pandas / requests 
+      ├─ main.py          # Punto de entrada
+      ├─ menu.py          # Interfaz de consola
+      ├─ service.py       # Lógica CRUD
+      ├─ file.py          # Persistencia
+      ├─ validate.py      # Validaciones
+      └─ integration.py   # Dependencias externas
+```
 
-# Instalacion
-Pasos claros para configurr el entorno y ejecutar el proyecto
+## Instalación
 
-# Uso
-Ejemplo de como utilizar bibliotecas o aplicacion
 
-# Creditos/autores
-Quien matiene el proyecto y contribuciones
+## Uso
 
-# Licencia
-Informacion sobre el uso permitido del codigo
+
+## Créditos / autores
+
+
+## Licencia
