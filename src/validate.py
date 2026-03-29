@@ -4,7 +4,7 @@ id_counter = 1
 def validate_email():
     while True:
         try:
-            email = "olivernie2626@gmail.com"
+            email = "madridemmanuel068@gmail.com"
             if "@" in email and "." in email:
                 print("Correo válido.")
                 return email
@@ -14,7 +14,7 @@ def validate_email():
 def validate_age():
     while True:
         try:
-            age = 18
+            age = 19
             if age <= 0 or age >= 100:
                 print("La edad no es válida. Ingrese una edad entre 1 y 99.")
             else:
@@ -39,7 +39,7 @@ def validate_user():
         print(f"Id de usuario asignado: {id_counter}")
         
         # Validate name
-        username = "Oliver"
+        username = "Emmanuel"
         
         # Validate email
         email = validate_email()
