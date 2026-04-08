@@ -5,5 +5,12 @@
         "email": "madridemmanuel068@gmail.com",
         "age": 19,
         "status": "active"
+    },
+    {
+        "id": 2,
+        "name": "jesus",
+        "email": "jesusa.c.0@gmail.com",
+        "age": 28,
+        "status": "activo"
     }
 ]
